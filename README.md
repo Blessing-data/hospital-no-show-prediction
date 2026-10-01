@@ -81,7 +81,7 @@ At 70–80% coverage (typical for automated SMS), the model is barely better tha
 
 ## How to run
 ```bash
-git clone https://github.com/[your-username]/hospital-no-show-prediction.git
+git clone https://github.com/Blessing-data/hospital-no-show-prediction.git
 cd hospital-no-show-prediction
 conda create -n noshow -c conda-forge --override-channels python=3.12 pandas=3.0.6 numpy=2.5.3 scikit-learn=1.9.1 matplotlib=3.11.2 seaborn=0.13.2 jupyterlab=4.6.4 ipykernel
 conda activate noshow
