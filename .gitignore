@@ -1,0 +1,15 @@
+# Data: download from Kaggle (see DATA_SOURCE.md); never committed
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
